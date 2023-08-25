@@ -1,0 +1,50 @@
+html{
+    background:content-box;
+    background:yellow;
+    background-image:url('./RightBackground4.jpg');
+    
+
+}
+#div1{
+    margin-top: auto;
+    text-align: center;
+}
+img{
+    border:30px solid black;
+    
+    
+}
+h1{
+     
+     color:deeppink;
+font-size: xx-large;
+    text-decoration: underline overline;
+   
+   text-align: center;
+ 
+}
+
+p{
+    text-align: center;
+    font-size: xx-large;
+    height:fit-content;
+    width: fit-content;
+    background: orchid;
+    border:20px solid;
+font-family: Arial, Helvetica, sans-serif;
+font-display: calc(margin-top);
+  
+    
+}
+footer{
+    font-size: x-large;
+    color:dodgerblue
+}
+
+    
+     font-size: x-large;
+
+
+    
+
+
